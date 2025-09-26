@@ -1,4 +1,4 @@
-# GoonerSquad MCP Server
+# lens MCP Server
 
 A Model Context Protocol (MCP) server that provides Supabase database integration tools for Claude Code. This server enables direct database operations and chat interaction logging through MCP tools.
 
